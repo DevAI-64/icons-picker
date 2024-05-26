@@ -1,0 +1,19 @@
+#dropdownMenuButton img, .dropdown-item img{
+  height: 50px;
+  width: 50px;
+}
+
+.nav{
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 10;
+}
+
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+a.nav-link{
+  text-align: center;
+}
