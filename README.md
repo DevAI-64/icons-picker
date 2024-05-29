@@ -26,7 +26,7 @@ Add in HTML head:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DevAI-64/icons-picker@0.0.1/icons-picker.css">
 ```
 
-Add in HTML script:
+Add in HTML body:
 ```html
 <!--load icons-picker v0.0.1 (js file)-->
 <script src="https://cdn.jsdelivr.net/gh/DevAI-64/icons-picker@0.0.1/icons-picker.js"></script>
