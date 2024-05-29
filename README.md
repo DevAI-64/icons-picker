@@ -162,6 +162,6 @@ iconsPicker.getUrlImgChoose();
 ![screen](img_readme/image.png)
 ![screen](img_readme/image-1.png)
 
-Then console displays the path of the dog icon.
+Then console displays the path of the dog icon when you click on button.
 
 *For any suggestions or questions do not hesitate to contact: belaich.david@outlook.fr*
