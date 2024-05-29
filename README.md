@@ -159,8 +159,8 @@ iconsPicker.getUrlImgChoose();
 </html>
 ```
 
-![screen](image.png)
-![screen](image-1.png)
+![screen](img_readme/image.png)
+![screen](img_readme/image-1.png)
 
 Then console displays the path of the dog icon.
 
